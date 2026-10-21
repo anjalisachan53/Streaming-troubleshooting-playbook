@@ -1,6 +1,6 @@
 # Sample Incidents (Fictional)
 
-These examples are synthetic and are included to demonstrate a troubleshooting method. They are not reports of real customer incidents.
+These examples are synthetic and are included to demonstrate a troubleshooting method.
 
 ## Case 1 — Black video in one browser
 
